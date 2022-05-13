@@ -1,2 +1,2 @@
-Esse é o meu primeiro projeto.
-Isso é uma alteração
+Esse é o meu primeiro "projeto".
+- Aprendendo a usar git e github
